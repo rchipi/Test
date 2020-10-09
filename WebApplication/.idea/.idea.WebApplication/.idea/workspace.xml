@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d38b5b-cfcf-4171-a0b5-800bc076cf21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="c4d38b5b-cfcf-4171-a0b5-800bc076cf21" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +30,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Usings not used." />
+        <option name="rewordedMessage" value="Squash test for Automatic workspace change and Usings not used." />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="f067ff7de5c9e8355dec0e5a8efd29acbd705417" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/ramir/source/repositories/GitHub/Test/WebApplication/WebApplication/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,8 +105,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602245687447</updated>
-      <workItem from="1602245699221" duration="2367000" />
+      <workItem from="1602245699221" duration="2672000" />
     </task>
+    <task id="LOCAL-00001" summary="Usings not used.">
+      <created>1602248551534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602248551534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Automatic workspace change.">
+      <created>1602248636380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602248636380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,8 +142,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Usings not used." />
+    <MESSAGE value="Automatic workspace change." />
+    <option name="LAST_COMMIT_MESSAGE" value="Automatic workspace change." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1124" y="590" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1602248718651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1124" y="590" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1602248718651" />
     <state x="1369" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1602247473335">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
