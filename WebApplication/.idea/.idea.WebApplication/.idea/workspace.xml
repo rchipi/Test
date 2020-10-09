@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d38b5b-cfcf-4171-a0b5-800bc076cf21" name="Default Changelist" comment="" />
+    <list default="true" id="c4d38b5b-cfcf-4171-a0b5-800bc076cf21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebApplication/Program.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1idm93h3jXlfQUJeABphdrFDAci" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -85,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602245687447</updated>
-      <workItem from="1602245699221" duration="314000" />
+      <workItem from="1602245699221" duration="2367000" />
     </task>
     <servers />
   </component>
@@ -107,5 +117,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1369" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1602247473335">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1369" y="312" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1602247473335" />
   </component>
 </project>
